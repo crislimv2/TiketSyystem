@@ -1,0 +1,18 @@
+# Ignore sensitive configuration files
+/Configs/ca.crt
+/appsettings.json
+
+# Ignore build folders
+/bin/
+/obj/
+
+# Visual Studio files
+.vs/
+*.sln
+
+# User-specific files
+*.user
+*.suo
+
+# Other files to ignore
+appsettings*.json
